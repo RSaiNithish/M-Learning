@@ -1,2 +1,2 @@
-# MDSC-301
-Repository of ML notebooks created as a part of ML course (MDSC-301) in SSSIHL 
+# Machine Learning
+Repository of notebooks with various machine learning algorithms implemented on popular datasets
